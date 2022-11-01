@@ -1,0 +1,7 @@
+org 100h
+
+mov al,8
+mov bl,4
+mul bl
+
+ret
